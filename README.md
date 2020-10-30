@@ -9,11 +9,7 @@
 * Detalhamento de Empresas
 * Filtro de Empresas por nome e tipo
 
-Dados de usuário para teste
-* Usuário de Teste: testeapple@ioasys.com.br
-* Senha de Teste : 12341234
-
-Frameworks e bibliotecas:
+Frameworks e bibliotecas utilizados na solução:
 * Axios
 * Bootstrap
 * Redux
@@ -21,5 +17,9 @@ Frameworks e bibliotecas:
 * React-Loading-Overlay
 * React-Spinners
 
-## Link para website:
+### Link para website:
 https://desafio-front-end-ioasys-joao-vitor.netlify.app/
+
+Dados de usuário para teste
+* Usuário de Teste: testeapple@ioasys.com.br
+* Senha de Teste : 12341234
