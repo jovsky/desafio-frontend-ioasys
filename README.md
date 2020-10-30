@@ -17,4 +17,9 @@ Frameworks e bibliotecas:
 * Axios
 * Bootstrap
 * Redux
+* React-Router-Dom
 * React-Loading-Overlay
+* React-Spinners
+
+## Link para website:
+https://desafio-front-end-ioasys-joao-vitor.netlify.app/
