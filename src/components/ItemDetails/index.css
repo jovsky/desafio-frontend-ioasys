@@ -1,0 +1,34 @@
+.container-list {
+  padding: 2.75rem 3.125rem;
+}
+
+.item-card {
+  max-width: 57.75rem;
+  min-height: 60.338rem;
+  border-radius: 4.8px;
+  background-color: white;
+  margin: 0 auto;
+  padding: 3rem 4.688rem;
+  display: block;
+}
+
+.item-card-picture {
+  width: 100%;
+  height: 18.438rem;
+  background-color: rgba(125, 192, 117);
+  text-align: center;
+  line-height: 18.366rem;
+  vertical-align: middle;
+  color: white;
+  font-family: Roboto;
+  font-size: 4.813rem;
+  font-weight: bold;
+}
+
+.item-card-description {
+  width: 100%;
+  font-family: SourceSansPro;
+  font-size: 2.125rem;
+  color: #8d8c8c;
+  margin: 3.063rem 0;
+}

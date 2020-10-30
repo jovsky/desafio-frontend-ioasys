@@ -1,0 +1,8 @@
+.toggle-pass-btn {
+  float: right;
+  margin-right: 0.125rem;
+  cursor: pointer;
+  height: 1.9rem;
+  width: 1.9rem;
+  color: rgba(0, 0, 0, 0.54)
+}

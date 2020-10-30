@@ -1,0 +1,19 @@
+.home-div {
+  margin: auto;
+  width: 100%;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.text-begin {
+  font-family: Roboto;
+  font-size: 2rem;
+  line-height: 1.22;
+  letter-spacing: -0.45px;
+  text-align: center;
+  color: #383743;
+  margin-top: 22.438rem;
+}

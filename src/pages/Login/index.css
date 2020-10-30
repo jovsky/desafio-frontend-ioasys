@@ -1,0 +1,23 @@
+.login-div {
+  padding-top: 5.75rem;
+  padding-bottom: 17.231rem;
+  margin: auto;
+  max-width: 64rem;
+  
+}
+
+.logo-home {
+  margin: 0 auto;
+  align-self: center;
+}
+
+.auth-form-div {
+  margin: auto;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+

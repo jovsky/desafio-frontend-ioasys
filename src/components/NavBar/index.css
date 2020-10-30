@@ -1,0 +1,119 @@
+.nav-bar {
+  width: 100%;
+  height: 9.438rem;
+  background-image: linear-gradient(180deg, #ee4c77 24%, rgba(187, 60, 103));
+  text-align: center;
+  color: white;
+  padding-top: 3.063rem;
+}
+
+.nav-logo-brand {
+  margin: 0 auto;
+  align-self: center;
+  display: inline;
+}
+
+.nav-search-div {
+  position: absolute;
+  top: 3.063rem;
+  float: right;
+  right: 0;
+  border: none;
+  padding: 0;
+}
+
+.nav-search-div-focus {
+  border-bottom: 1px solid white;
+  width: 96%;
+  margin: 0 2%;
+}
+
+.nav-search-div:focus {
+  border: 1px solid white;
+  width: 100%;
+}
+
+.nav-search-btn, .nav-search-btn:active, .nav-search-btn:focus  {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  float: left;
+}
+
+.nav-close-search-btn, .nav-close-search-btn:active, .nav-close-search-btn:focus {
+  background-color: transparent;
+  height: 3.75rem;
+  height: 3.75rem;
+  border: none;
+  outline: none;
+  color: white;
+  float: right;
+}
+
+.nav-search-input, .nav-search-input:active {
+  background-color: transparent;
+  height: 3.75rem;
+  border: none;
+  outline: none;
+  font-size: 2.125rem;
+  text-align: left;
+  color: white;
+  width: 82%;
+}
+
+.nav-search-input:focus {
+  border: none;
+  outline: none;
+}
+
+@media screen and (max-width: 900px) {
+  .nav-search-input {
+    width: 65%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .nav-search-input {
+    width: 55%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .nav-search-input {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .nav-search-input {
+    width: 33%;
+  }
+}
+
+
+.nav-search-input::placeholder {
+  font-family: Roboto;
+  font-size: 2.125rem;
+  text-align: left;
+  color: #991237;
+}
+
+.return-btn, .return-btn:active, .return-btn:focus {
+  background-color: transparent;
+  margin-left: 2.625rem;
+  height: 3.75rem;
+  width: 3.75rem;
+  border: none;
+  outline: none;
+  color: white;
+  float: left;
+  cursor: pointer;
+}
+
+.enterprise-name {
+  font-family: Roboto;
+  font-size: 2.125rem;
+  color: white;
+  float: left;
+  margin-left: 4.25rem;
+}
